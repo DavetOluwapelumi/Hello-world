@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(12, 7, 0);
+  color: rgb(251, 251, 255);
+}
+div{
+  width: 200px;
+  align-items: center;
+}
