@@ -1,10 +1,11 @@
 body {
-  background-color: papayawhip;
-  color: rgb(251, 251, 255);
-  justify-content: center;
+  background-color:lightgray;
+  color: rgb(251, 251, 255);justify-content: center;
   display: flex;
-  margin-top: 120px;
-  margin-bottom: 120px;
+}
+section {
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 div {
   width: 210px;
@@ -30,4 +31,11 @@ strong {
 img {
   margin-top: 3px;
   border-radius: 10px;
+}
+footer {
+  justify-content: center;
+  margin: 600px 0 0 0;
+  color:black;
+  text-align: justify;
+  display: inline-flex
 }
