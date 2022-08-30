@@ -4,6 +4,7 @@ body {
   justify-content: center;
   display: flex;
   margin-top: 120px;
+  margin-bottom: 120px;
 }
 div {
   width: 210px;
