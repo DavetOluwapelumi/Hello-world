@@ -10,11 +10,22 @@ div {
   padding: 5px;
   font-size: 15px;
   color: rgb(103, 103, 109);
+  padding-left: 5px;
+  padding-right: 5px;
 }
 strong {
   font-size: 18px;
   color: rgb(41, 41, 43);
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  
+}
+#background {
+  background-color: rgb(255, 255, 255);
+  width: fit-content;
+  padding: 10px;
+  border-radius: 20px;
+}
+img {
+  margin-top: 3px;
+  border-radius: 10px;
 }
